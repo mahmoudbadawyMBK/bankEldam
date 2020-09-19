@@ -1,0 +1,513 @@
+/*************protect***************/
+.navbar{
+    /*height: 125px;*/
+    background-color: #f9f9f9;
+    box-shadow: 0px 1px 0px 0px #ddd;
+}
+.section1{
+    height: 1400px;
+    background-color: #fbfbfb;
+}
+
+.box888{
+    width: 75%;
+    height: 60px;
+    background-color: white;
+    margin: 20px auto;
+    border-radius: 5px;
+}
+.title8{
+    color: gray;
+    float: right;
+    margin-right: 50px;
+    margin-top: 15px;
+    font-size: 20px
+}
+
+.black{
+    color: #484348;
+}
+
+.baby{
+    margin-left: 350px;
+    margin-top: 20px;
+}
+
+/*الوقاية من الامراض*/
+.box889{
+    width: 75%;
+    height: 60px;
+    background-color: #2d3e50;
+    margin: 20px auto;
+    border-radius: 5px;
+}
+.pro{
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: right;
+    padding-top: 10px;
+    padding-right: 10px;
+}
+
+.box890{
+    width: 75%;
+    height: 530px;
+    background-color: white;
+    margin: 20px auto;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.title9{
+    text-align: right;
+    margin-right: 15px;
+    margin-top: 15px;
+    font-size: 20px;
+}
+/*مقالات ذات صلة*/
+.h13{
+    color:#ab0f12 ;
+    text-align: right;
+    margin: 0 auto;
+    margin-right: 190px;
+    padding-top: 5px;
+    font-size: 28px;
+    padding-bottom: 5px;
+}
+.mbk1{
+    direction: rtl;
+    margin: inherit;
+    margin-right: 400px;
+    width: 6%;
+}
+
+.mbk2{
+    direction: rtl;
+    margin: inherit;
+    margin-right: 190px;
+    width: 13%;
+}
+@media only screen and (max-width:480px){
+    .section1{
+        height: auto;
+    }
+    #we-offer{
+        height: auto;
+    }
+    .baby{
+        width: 95%;
+        margin-left: 10px;
+        margin-top: 20px;
+    }
+    .box888{
+        width: 95%;
+        height: 60px;
+        background-color: white;
+        margin: 20px auto;
+        border-radius: 5px;
+    }
+    .title8{
+        margin-right: 15px;
+        font-size: 18px
+    }
+    .title9{
+        font-size: 16px;
+    }
+    .box890{
+        width: 90%;
+        margin: 5px auto;
+    }
+    .h13{
+        margin-right: 10px;
+    }
+    .mbk2{
+        margin-right: 15px;
+        width: 50%;
+    }
+}
+/**********************************************/
+
+
+/**************** m3lomaty ******************/
+.sec2{
+    height:auto;
+}
+.box21{
+    width: 75%;
+    height: 900px;
+    background-color: white;
+    margin: 0px auto;
+    border-radius: 5px;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+.form-control{
+    margin:auto;
+    height: 50px;
+    width: 90%;
+    box-sizing: border-box;
+    margin: 25px;
+    background-color: #fbfbfb;
+}
+
+#disabledSelect{
+    background-color: #fbfbfb;
+}
+
+.buttonedit{
+    width: 400px;
+    height: 45px;
+    background-color: #2d3e50;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 340px;
+    display: inline-block;
+    border-radius: 1px;
+    padding: 1px;
+    box-shadow: none ;
+    border: none;
+}
+@media only screen and (max-width:480px){
+    .box21{
+        width: 95%;
+        padding: 10px;
+    }
+    .form-control{
+        margin: 20px;
+    }
+
+}
+
+/*************************** signin **************************/
+.buttonsignin{
+    background-color: #3ab54a;
+}
+.box510{
+    width: 75%;
+    height: 900px;
+    background-color: white;
+    margin: 0px auto;
+    border-radius: 5px;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+@media only screen and (max-width:480px){
+    .buttonedit{
+        width: 95%;
+        margin-left: 0px;
+    }
+    .box510{
+        width: 95%;
+        padding: 10px;
+    }
+}
+
+/*************************** request ************************/
+
+.reqest{
+    width: 100%;
+    height: auto;
+    background-color: #f5f5f5;
+    padding-bottom: 30px;
+}
+
+.number2{
+    padding-top: 30px;
+    margin-right: 625px;
+}
+
+@media (max-width:768px){
+    .number2{
+        padding-top: 30px;
+        margin-right: 125px;
+    }
+
+}
+
+@media only screen and (max-width:480px){
+    .number2{
+        padding-top: 30px;
+        margin-right: 15px;
+    }   
+}
+/******************* login ***************************/
+
+.logo222{
+    margin-left: 60px;
+}
+.box315{
+    width: 75%;
+    height: 90px;
+    background-color: white;
+    margin: 0px auto;
+    margin-bottom: 0px;
+    border-radius: 5px;
+    padding: 30px;
+    box-sizing: border-box;
+}
+
+
+.button299{
+    width: 330px;
+    height: 45px;
+    background-color: #2d3e50;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    display: inline-block;
+    border-radius: 1px;
+    padding: 1px;
+    box-shadow: none ;
+    border: none;
+    margin-left: 55px;
+}
+
+.button2992{
+    background-color: #3ab54a;
+    margin-left: 30px;
+}
+.form-check-label,.form-check{
+    float: right;
+}
+.box29{
+    height: auto;
+   margin-bottom: 30px;
+    
+}
+.section551{
+    height: 600px;
+    background-color: #fbfbfb;
+}
+.forget{
+    margin-left: 50px;
+}
+.fa-exclamation-triangle{
+    color: darkorange;
+}
+@media only screen and (max-width:480px){
+    .box315{
+        width: 95%;
+        padding: 10px;
+    }
+    .box29{
+        width: 95%;
+    }
+    .forget{
+        margin-left: 15px;
+    }
+    .button299{
+        width: 90%;
+        margin-left: 0px;
+        margin-bottom: 10px;;
+    }
+    .button2992{
+        margin-left: 0px;
+    }
+}
+/************************** contact ************************/
+.sec3{
+    height: 780px;
+    background-color: #fbfbfb;
+}
+.bigbox{
+    background-color: #fbfbfb;
+    margin: 20px;
+    
+}
+.smallbox{
+    background-color: white;
+    height: 540px;
+    margin: 40px;
+}
+.buttontop{
+    width: 103%;
+    height: 45px;
+    background-color: #2d3e50;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    border-radius: 1px;
+    padding: 10px;
+    box-shadow: none ;
+    border: none;
+    margin-right: 0px;
+}
+/*left*/
+.form-control2{
+    background-color: white;
+    width: 95%;
+    margin: 15px;
+}
+
+/*right*/
+.logotop{
+    margin-right: 20px;
+    width: 260px;
+}
+.firsthr{
+    margin-top: 40px;
+}
+.table2{
+    margin-top: 20px;
+}
+
+.cont{
+    text-align: center;
+    margin: 30px;
+    color: red;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.fa-facebook-square,.fa-twitter-square,.fa-youtube-square,.fa-instagram2,.fa-whatsapp-square,.fa-google-plus-square{
+    font-size: 50px;
+    margin: 8px;
+   
+}
+.fab:hover, .fab:active{
+    transition:  color 1s, transform 0.5s, opacity 0.5s;
+    transform: scale(1.33);
+}
+
+.fa-facebook-square{
+    color: #3a549f;
+    
+}
+.fa-twitter-square{
+    color: #4eacf4;
+}
+.fa-youtube-square{
+    color: #de4931;
+}
+.fa-instagram2{
+    color: #c535a4;
+}
+.fa-whatsapp-square{
+    color: #1cd549;
+}
+.fa-google-plus-square{
+    color: #de4b39;
+}
+@media (max-width:768px){
+     lastsection{
+        display: none;
+    }
+}
+
+@media only screen and (max-width:480px){
+    .logotop{
+        margin-right: 0px;
+        margin-left: 35px;;
+        width: 160px;
+    }
+    .sec3{
+        height: auto;
+    }
+    .bigbox{
+        margin: 0px;
+        
+    }
+    .smallbox{
+        margin: 5px;
+    }
+    .fa-facebook-square,.fa-twitter-square,.fa-youtube-square,.fa-instagram2,.fa-whatsapp-square,.fa-google-plus-square{
+        font-size: 50px;
+        margin: 18px;
+       
+    }
+}
+/*************************************************************/
+
+/************************ inrequest *************************/
+.boxinrequesr{
+    width: 75%;
+    height: 1000px;
+    background-color: white;
+    margin: 20px auto;
+    border-radius: 5px;
+}
+.tablerequesr{
+    text-align: right;
+    margin: 20px;
+    margin-left: px;
+}
+.info2{
+    width: 200px;
+    height: 75px;
+    background-color: #f4f4f4;
+    font-size: 20px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.data2{
+    width: 200px;
+    height: 75px;
+    background-color: #fbfbfb;
+    font-size: 20px;
+    padding: 20px;
+    box-sizing: border-box;
+    
+}
+@media only screen and (max-width:480px){
+}
+
+
+/********************** we ********************************/
+.section84{
+    height: auto;
+    background-color: #fbfbfb;
+}
+
+.box6610{
+    width: 75%;
+    height: 730px;
+    background-color: white;
+    margin: 20px auto;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.topimg{
+    width: 30%;
+    margin-left: 350px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.title96{
+    text-align: right;
+    margin-right: 35px;
+    margin-left: 35px;
+    margin-top: 15px;
+    font-size: 20px;
+}
+
+
+
+
+
+@media only screen and (max-width:480px){
+    .box6610{
+        width: 95%;
+        height: auto;
+        margin: 20px auto;
+    }
+
+.topimg{
+    width: 60%;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.title96{
+    text-align: right;
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-top: 15px;
+    font-size: 16px;
+}
+
+}
+
+
